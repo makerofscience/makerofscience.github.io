@@ -1,2 +1,0 @@
-# makerofscience.github.io
- 
