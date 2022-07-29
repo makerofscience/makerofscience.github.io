@@ -20,8 +20,7 @@
 }
 
 body, html {
-  background-color: var(--mono10);
-  color: var(--mono2);
+  
   
   height: 100%;
   margin: 0;
